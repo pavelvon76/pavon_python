@@ -4,3 +4,9 @@
 - [Reference: Python Tutorial od Python.Org ](https://docs.python.org/3.9/tutorial/index.html)
 - [GDB Online python compiler ](https://www.onlinegdb.com/online_python_compiler)
 - [Stranka podobná VSC: Repl.it](https://replit.com/~)
+
+## Existují další, zajímavé knihovny a řešení
+
+### Napojení / vytvoření na Excel, Word
+### Napojení na Web stránky (POST,GET), získán odkazu
+

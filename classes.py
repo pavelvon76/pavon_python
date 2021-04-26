@@ -1,3 +1,4 @@
+import math
 class student():
     def __init__(self,id,name):
         self.id = id
@@ -19,6 +20,6 @@ for stu in students:
 
 ## projdi poslední dva studenty a vypiš jejich jména
 for stu in students[-2:]: 
-    print(stu.name)
+    print(stu.name,math.pi)
 
 
