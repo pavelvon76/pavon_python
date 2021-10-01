@@ -10,4 +10,4 @@
 |**obsahuje**|různé typy,i stejné hodnoty|různé typy i stejné hodnoty|pouze unikátní hodnoty různé typy|
 |**konverze**||seznam = **list**(ntice)||seznam = ["a","b","c"] set(seznam)
 |**přístup**|ntice[0] .. ntice[2]|seznam[0] .. ntice[2]||slovnik["ID"]
-|**řazení**|indexem|indexem|neřazen|neřazen
+|**řazení**|indexem|indexem|neřazen|neřazen 
